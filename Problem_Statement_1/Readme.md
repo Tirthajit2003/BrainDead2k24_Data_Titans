@@ -9,6 +9,6 @@ This repository contains the solution for Problem Statement 1 of the BrainDead 2
 
 ### How to Use
 1. Clone this repository to your local machine.
-2. Open the Colab Notebook file (`braindead_rice_production.ipynb`) and follow the instructions to run the code.
+2. Open the Colab Notebook file (`PS1.ipynb`) and follow the instructions to run the code.
 3. Refer to the Data Analysis Report for insights and methodology details.
 4. Use the provided predictive model to estimate rice production for the next 5 years in Indian states/union territories.
