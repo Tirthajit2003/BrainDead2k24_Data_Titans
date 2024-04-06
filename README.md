@@ -1,6 +1,6 @@
 # BrainDead2k24_Data_Titans
 
-### Problem statement : [a link](https://github.com/Revelation-24/BrainDead2k24)
+### Problem statement : [Link](https://github.com/Revelation-24/BrainDead2k24)
 
 ## Solution Approach
 
