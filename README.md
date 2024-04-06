@@ -34,6 +34,7 @@
 **Dataset Analysis:** We began by exploring the provided dataset containing 10,000 internet memes, each labeled as harmful (1) or non-harmful (0). The dataset comprises both image and text data, with images stored in a separate folder named "img" and text data organized in a CSV file.
 
 **Data Cleaning:** We performed necessary data cleaning steps, including checking for missing values, removing duplicates, and ensuring consistency in labeling. Additionally, we preprocessed the image and text data to prepare it for multimodal analysis.
+
 #### Exploratory Data Analysis (EDA)
 **Image Analysis:** We visualized a subset of meme images to gain insights into the nature of harmful content and identify common visual features associated with hate speech. This involved using techniques such as image augmentation, feature extraction, and dimensionality reduction to analyze image data effectively.
 
